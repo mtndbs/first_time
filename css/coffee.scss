@@ -1,0 +1,9 @@
+@import "colors";
+@import "text";
+
+h1{
+    font-family:$spec-text;
+    text-align: center;
+    font-size: 100px;
+    background-color:$bg-classic;
+}
